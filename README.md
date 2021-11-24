@@ -1,1 +1,1 @@
-# terraform-azure-linux-vm
+# Azure Windows VM Module
