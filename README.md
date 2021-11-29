@@ -1,1 +1,1 @@
-# Azure Windows VM Module
+# Azure Linux VM Module
